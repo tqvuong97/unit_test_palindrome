@@ -1,0 +1,15 @@
+C:\Ruby25-x64\bin\ruby.exe D:/test/palindrome.rb
+Started
+
+
+##teamcity[enteredTheMatrix timestamp = '2020-02-25T21:59:14.598+0700']
+
+##teamcity[testCount count = '0' timestamp = '2020-02-25T21:59:14.599+0700']
+
+##teamcity[testStarted name = 'test_palindrome?' captureStandardOutput = 'true' locationHint = 'ruby_minitest_qn://PalindromeTest.test_palindrome?' timestamp = '2020-02-25T21:59:14.600+0700']
+
+##teamcity[testFinished name = 'test_palindrome?' duration = '0' timestamp = '2020-02-25T21:59:14.601+0700']
+Finished in 0.00230s
+1 tests, 9 assertions, 0 failures, 0 errors, 0 skips
+
+Process finished with exit code 0
